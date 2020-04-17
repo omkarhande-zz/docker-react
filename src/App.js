@@ -18,6 +18,7 @@ function App() {
         >
           Learn driving
         </a>
+        <p>Just a new para</p>
       </header>
     </div>
   );
